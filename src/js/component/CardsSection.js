@@ -5,6 +5,7 @@ const CardsSection = () => {
   const cardsInfo = [
     { title: "Card title", text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", buttonText: "Find Out More!" },
     { title: "Card title", text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", buttonText: "Find Out More!" },
+    { title: "Card title", text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", buttonText: "Find Out More!" },
     { title: "Card title", text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.", buttonText: "Find Out More!" }
   ];
 

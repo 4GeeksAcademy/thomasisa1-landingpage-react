@@ -1,0 +1,28 @@
+.jumbotron {
+    padding-left: 20px; 
+    margin-top: 20px;
+    color: black;
+  }
+  .jumbotron .lead, .btn {
+    padding: left 1ch;
+  }
+
+  .lead{
+    color: rgb(10, 10, 10);
+  }
+.custom-padding-left {
+    padding-left: 30px;
+    padding-bottom: 20px; 
+  }
+  
+  .container {
+    padding-left: 0; 
+    padding-right: 0; 
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      padding-left: 15px; 
+      padding-right: 15px;
+    }
+  }
